@@ -1,0 +1,31 @@
+{
+  "name": "json-to-form-data",
+  "version": "1.0.0",
+  "description": "turns a json object into a from data string",
+  "main": "index.js",
+  "scripts": {
+    "test": "_mocha --recursive test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krystianity/json-to-form-data.git"
+  },
+  "keywords": [
+    "formdata",
+    "form",
+    "data",
+    "json",
+    "to",
+    "simple",
+    "simply"
+  ],
+  "author": "Chris Fröhlingsdorf <chris@5cf.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krystianity/json-to-form-data/issues"
+  },
+  "homepage": "https://github.com/krystianity/json-to-form-data#readme",
+  "devDependencies": {
+    "mocha": "~3.3.0"
+  }
+}
